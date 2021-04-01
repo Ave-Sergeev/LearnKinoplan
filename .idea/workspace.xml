@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dfecd8f6-2538-4c16-b995-e2d4271ef5c8" name="Default Changelist" comment="Learn to Kinoplan task">
-      <change beforePath="$PROJECT_DIR$/src/main/scala/sj.scala" beforeDir="false" />
+    <list default="true" id="dfecd8f6-2538-4c16-b995-e2d4271ef5c8" name="Default Changelist" comment="add gitignore commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,12 +139,20 @@
       <option name="project" value="LOCAL" />
       <updated>1617253525995</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test commit">
+      <created>1617253654510</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1617253654510</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Learn to Kinoplan task" />
-    <option name="LAST_COMMIT_MESSAGE" value="Learn to Kinoplan task" />
+    <MESSAGE value="test commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="test commit" />
   </component>
   <component name="WorksheetDefaultProjectSettings">
     <option name="interactive" value="true" />

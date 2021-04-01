@@ -9,4 +9,3 @@ logs
 /.settings
 /RUNNING_PID
 .DS_Store
-test/controllers/HomeControllerSpec.scala
